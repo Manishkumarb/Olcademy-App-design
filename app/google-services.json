@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757770525269",
+    "firebase_url": "https://olcademylogin.firebaseio.com",
+    "project_id": "olcademylogin",
+    "storage_bucket": "olcademylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757770525269:android:2ce7004607ba36af",
+        "android_client_info": {
+          "package_name": "com.example.android.olcademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757770525269-jnllpa67n9g9nrmfg6enicnb5ps0btgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.olcademy",
+            "certificate_hash": "acad5dc3d693ac08fc5e07e94e88a9c37067e102"
+          }
+        },
+        {
+          "client_id": "757770525269-n1ei67dttm24svirmddpsv1qmu27f25a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCWT-gfePeQVFMoWBu1dWy-Ix3S2L4kb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757770525269-n1ei67dttm24svirmddpsv1qmu27f25a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
